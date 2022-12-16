@@ -1,2 +1,2 @@
 # maze-runner.github.io
-Documentation for Maze Runner
+Documentation for the [Maze Runner](https://github.com/KshitijKarnawat/maze-runner) repository
